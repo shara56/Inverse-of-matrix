@@ -32,9 +32,11 @@ a1=np.array(l2)
 x=np.linalg.inv(a1)
 print(x)
 
+```
+
 
 ## OUTPUT:
-![Screenshot from 2022-10-12 21-24-20](https://user-images.githubusercontent.com/113497104/195491989-50f1b842-3493-47b0-8084-2dc417eb9e5d.png)
+![Screenshot from 2022-10-12 21-24-20](https://user-images.githubusercontent.com/113497104/195492931-c91b70b6-665b-473f-9e74-c0fd56728ea1.png)
 
 
 ## RESULT:
