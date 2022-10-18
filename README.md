@@ -1,8 +1,9 @@
 # Inverse-of-matrix
-
 ## AIM:
 To write a python program to find the inverse of a matrix.
-
+## Equipment’s required:
+1. 	Hardware – PCs
+2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## ALGORITHM:
 ### Step 1:
 Use import as np.
